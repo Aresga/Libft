@@ -125,7 +125,7 @@ You can include `libft.a` in your projects by adding the following to your sourc
 Then, link the library during compilation:
 
 ```bash
-gcc -Wall -Wextra -Werror main.c -L. -lft -o my_program
+cc -Wall -Wextra -Werror main.c -L. -lft -o my_program
 ```
 
 ## Contributing
