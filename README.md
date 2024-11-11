@@ -50,6 +50,7 @@ Here is a list of functions I have implemented so far:
 - `ft_memchr` - Scans memory for a character.
 - `ft_memcmp` - Compares memory areas.
 - `ft_strnstr` - Locates a substring in a string with size limitation.
+- `ft_atoi` - Converts a string to an integer.
 - `ft_calloc` - Allocates memory and sets it to zero.
 - `ft_strdup` - Duplicates a string.
 
