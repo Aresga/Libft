@@ -140,9 +140,9 @@ Then, link the library during compilation:
 cc -Wall -Wextra -Werror main.c -L. -lft -o my_program
 ```
 
-##testing
+## Testing
 
-check 
+Refer to the [Libft tester repository](https://github.com/Aresga/Libft-) for comprehensive testing of the implemented functions.
 
 
 ## Contributing
