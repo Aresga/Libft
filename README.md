@@ -98,8 +98,14 @@ git clone git@github.com:Aresga/Libft-.git libft
 cd libft
 ```
 
+To create libft.a:
 ```bash
 make
+```
+
+To add bonus functions:
+```bash
+make bonus
 ```
 
 To clean up object files:
