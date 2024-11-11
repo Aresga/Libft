@@ -94,6 +94,11 @@ Here is a list of functions I have implemented so far:
 Instructions on how to install and set up the project.
 
 ```bash
+git clone git@github.com:Aresga/Libft-.git libft
+cd libft
+```
+
+```bash
 make
 ```
 
