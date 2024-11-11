@@ -142,7 +142,7 @@ cc -Wall -Wextra -Werror main.c -L. -lft -o my_program
 
 ## Testing
 
-Refer to the [Libft tester repository](https://github.com/Aresga/Libft-) for comprehensive testing of the implemented functions.
+Refer to the [Libft tester repository](https://github.com/Aresga/libft-tester.git) for comprehensive testing of the implemented functions.
 
 
 ## Contributing
