@@ -140,6 +140,11 @@ Then, link the library during compilation:
 cc -Wall -Wextra -Werror main.c -L. -lft -o my_program
 ```
 
+##testing
+
+check 
+
+
 ## Contributing
 
 If you have suggestions or improvements, feel free to open a pull request. For major changes, please open an issue first to discuss the changes you would like to make.
