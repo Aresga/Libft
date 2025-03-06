@@ -66,6 +66,8 @@ Here is a list of functions I have implemented so far:
 - `ft_putstr_fd` - Outputs a string to a file descriptor.
 - `ft_putendl_fd` - Outputs a string to a file descriptor, followed by a newline.
 - `ft_putnbr_fd` - Outputs an integer to a file descriptor.
+- `get_next_line` - Reads a line from a file descriptor.
+- `ft_printf` - Produces output according to a format.
 
 ### Bonus Functions
 
@@ -83,8 +85,8 @@ Here is a list of functions I have implemented so far:
 
 ```
 .
-├── libft.h           # Header files
-├── *.c               # Source files
+├── inc           # Header files
+├── src               # Source files
 ├── Makefile          # Build script
 └── README.md         # This file
 ```
@@ -152,3 +154,6 @@ If you have suggestions or improvements, feel free to open a pull request. For m
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
